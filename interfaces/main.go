@@ -11,6 +11,9 @@ type bot interface {
 
 }
 
+// bot is an interface type, and we cant create a value out of interface type
+// interfaces are implicit
+
 /*
 
  */
