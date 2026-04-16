@@ -10,7 +10,7 @@
 
 ##  go scheduler
 -   interface btween the single CPU core and the go routines
--   by default go on only on 1 core, but we can change this behavior
+-   by default go runs only on 1 core, but we can change this behavior
 -   scheduler in such case would run one thread on each logical core
 
 ##  concurrency/ parallelism

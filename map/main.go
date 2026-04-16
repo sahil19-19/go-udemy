@@ -6,7 +6,7 @@ func main() {
 	}
 	delete(colors, "red")
 	/*
-	   keys not ordered
+	  keys not ordered
 
 	*/
 }
